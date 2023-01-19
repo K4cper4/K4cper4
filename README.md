@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K4cper4
 - 👀 I’m interested in playing games, programming, modeling 3D and history.
-- 🌱 I’m currently learning HTML, CSS, PHP and SQL. Soon maybe Dart and Flutter.
+- 🌱 I’m currently learning HTML, CSS, JS, Python and SQL.
 - 📫 How to reach me - Discord Colazzo#2004.
 
 <!---
